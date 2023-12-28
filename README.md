@@ -15,7 +15,7 @@ This is a project of a RESTful API built with Node.js and MongoDB to manage user
 ## How to Use
 
 1. Install dependencies: `npm install`
-2. Start the server: `npm start`
+2. Start the project: `npm start`
 
 Make sure you have Node.js and MongoDB installed on your machine.
 
