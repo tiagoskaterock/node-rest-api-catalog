@@ -10,8 +10,6 @@ const port = 3000
 
 app.use(bodyParser.json())
 
-
-
 // home
 app.get('/', function(req, res, next) {
 	res.send('Hello World!!!')
