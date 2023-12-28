@@ -1,0 +1,20 @@
+{
+  "name": "rest-api-catalog",
+  "version": "1.0.0",
+  "description": "Simple API REST made with Node JS and Mongo DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagoskaterock/node-rest-api-catalog.git"
+  },
+  "author": "Tiago Lemes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagoskaterock/node-rest-api-catalog/issues"
+  },
+  "homepage": "https://github.com/tiagoskaterock/node-rest-api-catalog#readme"
+}
